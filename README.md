@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; background-color: blue"  />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to Python and related technologies  
   
 
-- ⚡ Fun fact: If I could have any superpower, it would be to speak and understand any language including python 😅,  so I could connect with any code in the world😅  
+- ⚡ Fun fact:If I could have any superpower, it would be to speak any language including python 😅,  so I could connect with any code in the world😅  
   
 
 <br/>  
@@ -92,17 +92,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maureen-muriithi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maureen-muriithi&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
@@ -119,7 +109,11 @@ If things goes well, this section should automatically be replaced by a list of 
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
                     align="center"
                 />
-            </a></div>
+            </a></div>  
+
+<br/>  
+
+
 <br />
 
 ----
