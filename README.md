@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
 </div>  
   
 
@@ -90,26 +90,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maureen-muriithi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"style="background-color: blue;><img src="https://github-readme-stats.vercel.app/api?username=maureen-muriithi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maureen-muriithi&hide_border=true&layout=compact" align="left" />  
+<br/>
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
+<div align="center" style="background-color: blue;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maureen-muriithi&hide_border=true&layout=compact" align="left" /></div>
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>  
+
 
 <br/>  
 
