@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Maureen Murithi, a full-time full-stack developer 👨‍💻 a current student at Moringa School 🚀</div>  
+### <div style="color: pink" align="center">I'm Maureen Murithi, a full-time full-stack developer 👨‍💻 a current student at Moringa School 🚀</div>  
   
 
 - 🔭 I’m currently working as a freelancer  
