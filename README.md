@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; background-color: blue"  />
 </div>  
   
 
@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to Python and related technologies  
   
 
-- ⚡ Fun fact:If I could have any superpower, it would be to speak any language including python 😅,  so I could connect with any code in the world😅  
+- ⚡ Fun fact: If I could have any superpower, it would be to speak and understand any language including python 😅,  so I could connect with any code in the world😅  
   
 
 <br/>  
