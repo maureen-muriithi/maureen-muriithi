@@ -90,20 +90,19 @@
 
 
 ## Github Stats  
-<div align="center"style="background-color: blue;><img src="https://github-readme-stats.vercel.app/api?username=maureen-muriithi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maureen-muriithi&show_icons=true&count_private=true&hide_border=true" align="center" />
 <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maureen-muriithi&hide_border=true&layout=compact" align="center" />  
+</div>  
 
-<div align="center" style="background-color: blue;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maureen-muriithi&hide_border=true&layout=compact" align="left" /></div>
+
+<br/>    
+
+<br/>   
 
 <br/>  
 
-
-
-<br/>  
-
-
-<br />
+<hr/>  
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
