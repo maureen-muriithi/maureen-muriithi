@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a freelancer  
   
 
-- 🌱 I’m currently learning Machine Learning and Mini-Programs Development  
+- 🌱 I’m currently learning Mini-Programs Development  
   
 
 - ❓ Ask me about anything related to Python and related technologies  
